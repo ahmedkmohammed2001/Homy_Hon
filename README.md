@@ -1,16 +1,8 @@
 # homy_hon
 
-A new Flutter project.
+A real estate app is a mobile application and dashboard that allows users to buy, sell, or rent properties.
+The app can be used by both normal users and office users.
 
-## Getting Started
+## show demo from here 
+- [demo and more details]([https://docs.flutter.dev/get-started/codelab](https://www.linkedin.com/posts/ahmed-mohammed-381b8b251_hello-everyone-i-present-to-you-project-activity-7102019264437477376-03R5?utm_source=share&utm_medium=member_android))
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
